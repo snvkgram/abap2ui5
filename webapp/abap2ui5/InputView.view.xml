@@ -18,4 +18,4 @@
     type="Accept" 
      />  </content>
 	</Page>
-</core:View> 
+</mvc:View> 
