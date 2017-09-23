@@ -10,14 +10,14 @@
     width="100%" 
      />  <Input type="Text" 
     placeholder="another text field" 
-    width="15%" 
+    width="100%" 
      />  <Input type="Text" 
     placeholder="one more text field" 
-    width="15%" 
+    width="100%" 
      />  <Text text="" 
     width="100%" 
      />  <Button id="id1" 
-    text="Run" 
+    text="Search" 
     type="Accept" 
      />  </content>
 	</Page>
