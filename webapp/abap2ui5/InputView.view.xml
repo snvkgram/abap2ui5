@@ -19,7 +19,8 @@
     class="sapUiSmallMarginBottom" 
      />  <Text text="" 
     width="100%" 
-     />  <Button id="id1" 
+     />  <Button class="sapUiSmallMarginBeginEnd" 
+    id="id1" 
     text="Search" 
     type="Accept" 
      />  </content>
