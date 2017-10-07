@@ -1,5 +1,6 @@
  <mvc:View controllerName="abap2ui5.InputView" xmlns:html="http://www.w3.org/1999/xhtml"
-	xmlns:mvc="sap.ui.core.mvc" displayBlock="true" xmlns="sap.m"><Page title='Sales Order Status Report'><content>  <Label text="Sales Order" 
+	xmlns:mvc="sap.ui.core.mvc" displayBlock="true" xmlns="sap.m"><Page title='Sales Order Status Report'><content>  <Label class="sapUiSmallMarginTop sapUiSmallMarginBottom" 
+    text="Sales Order" 
     labelFor="SalesOrderFrom" 
      />  <Input type="Text" 
     id="SalesOrderFrom" 
